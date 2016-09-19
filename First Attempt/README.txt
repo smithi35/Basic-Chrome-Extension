@@ -1,0 +1,1 @@
+Trying to make a Chrome Extension to read the content of an open web page, and change certain words
